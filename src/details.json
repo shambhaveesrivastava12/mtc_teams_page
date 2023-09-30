@@ -1,0 +1,245 @@
+{
+    "people": [
+      {
+        "id": 1,
+        "name": "Ajay Kumar",
+        "position": "Faculty Coordinator",
+        "image": "https://example.com/john-doe.jpg",
+        "linkedin": "https://www.linkedin.com/in/johndoe/"
+      },
+      {
+        "id": 2,
+        "name": "Keshav Sinha",
+        "position": "Faculty Coordinator",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 3,
+        "name": "Rashi Trikha",
+        "position": "Student Coordinator",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 4,
+        "name": "Kartikeya Khanna",
+        "position": "Student Coordinator",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      
+      {
+        "id": 5,
+        "name": "Vishal Gupta",
+        "position": "Student Coordinator",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 6,
+        "name": "Aditya Kumar",
+        "position": "President",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 7,
+        "name": "Sanidhya Soni",
+        "position": "Vice-President",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 8,
+        "name": "Tanish Garg",
+        "position": "Treasurer",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 9,
+        "name": "Rishabh Dhangar",
+        "position": "Director of Operations",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 10,
+        "name": "Yash Raj Singh",
+        "position": "Mangerial Director",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 11,
+        "name": "Vibhor Minocha",
+        "position": "Internal Operations",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 12,
+        "name": "Siddhant Srivastava",
+        "position": "Joint Secretary",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 13,
+        "name": "Somya Gupta",
+        "position": "Social Media Head",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 14,
+        "name": "Mimansa Pathania",
+        "position": "Management and Records Head",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      {
+        "id": 15,
+        "name": "Shreshth Pandey",
+        "position": "Sponsor and Public Relations Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 16,
+        "name": "Hamza bin Saleem",
+        "position": "Events Head",
+        "image": "https://example.com/jane-smith.jpg",
+        "linkedin": "https://www.linkedin.com/in/janesmith/"
+      },
+      
+      {
+        "id": 17,
+        "name": "Rajat Bisht",
+        "position": "Technical Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 18,
+        "name": "Design Head",
+        "position": "Ananya Singh",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 19,
+        "name": "Rk Ayushman",
+        "position": "Editorial Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 20,
+        "name": "Arnav",
+        "position": "Photography Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 21,
+        "name": "Insiya Rizvi",
+        "position": "Management and Records Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 22,
+        "name": "Shrey Sharma",
+        "position": "PR Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 22,
+        "name": "Chaitanya Jain",
+        "position": "PR Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 23,
+        "name": "Piklu De",
+        "position": "Sponsors Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 24,
+        "name": "Rohin Mehrotra",
+        "position": "Technical Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 25,
+        "name": "Vansh Raj Chauhan",
+        "position": "Technical Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 26,
+        "name": "Sonali Bhadra",
+        "position": "Design Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 27,
+        "name": "Vedanshi Samant",
+        "position": "Design Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 28,
+        "name": "Piyush Kumar",
+        "position": "Editorial Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 29,
+        "name": "Hardik Raj Kapoor",
+        "position": "Photograhy Associate Head",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 30,
+        "name": "David Johnson",
+        "position": "Data Scientist",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 31,
+        "name": "David Johnson",
+        "position": "Data Scientist",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 32,
+        "name": "David Johnson",
+        "position": "Data Scientist",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      },
+      {
+        "id": 33,
+        "name": "David Johnson",
+        "position": "Data Scientist",
+        "image": "https://example.com/david-johnson.jpg",
+        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+      }
+    ]
+  }
+  
