@@ -4,28 +4,28 @@
         "id": 1,
         "name": "Ajay Kumar",
         "position": "Faculty Coordinator",
-        "image": "https://example.com/john-doe.jpg",
-        "linkedin": "https://www.linkedin.com/in/johndoe/"
+        "image": "/mtc/ajay sir.jpeg",
+        "linkedin": "https://www.linkedin.com/in/ajay-kumar-71267820/"
       },
       {
         "id": 2,
         "name": "Keshav Sinha",
         "position": "Faculty Coordinator",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/keshav sir.jpeg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 3,
         "name": "Rashi Trikha",
         "position": "Student Coordinator",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/Rashi Trikha.jpg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 4,
         "name": "Kartikeya Khanna",
         "position": "Student Coordinator",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/Kartikeya Khanna.jpg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       
@@ -33,212 +33,204 @@
         "id": 5,
         "name": "Vishal Gupta",
         "position": "Student Coordinator",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/Vishal Gupta.webp",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 6,
         "name": "Aditya Kumar",
         "position": "President",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/Aditya Kumar.jpeg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 7,
         "name": "Sanidhya Soni",
         "position": "Vice-President",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/sanidhya soni.jpeg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 8,
         "name": "Tanish Garg",
         "position": "Treasurer",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
+        "image": "mtc/Tanish Garg.jpg",
+        "linkedin": "https://www.linkedin.com/in/tanish-garg-5114aa236/"
       },
       {
         "id": 9,
         "name": "Rishabh Dhangar",
         "position": "Director of Operations",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/rishab dhangar.jpeg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 10,
         "name": "Yash Raj Singh",
         "position": "Mangerial Director",
-        "image": "https://example.com/jane-smith.jpg",
+        "image": "/mtc/yashraj singh.jpeg",
         "linkedin": "https://www.linkedin.com/in/janesmith/"
       },
       {
         "id": 11,
         "name": "Vibhor Minocha",
         "position": "Internal Operations",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
+        "image": "/mtc/vibhor minocha.jpeg",
+        "linkedin": "https://www.linkedin.com/in/vibhor-minocha-513b32220/"
       },
       {
         "id": 12,
         "name": "Siddhant Srivastava",
         "position": "Joint Secretary",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
+        "image": "/mtc/siddhant srivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/siddhantsrivastava21/"
       },
       {
         "id": 13,
         "name": "Somya Gupta",
         "position": "Social Media Head",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
+        "image": "/mtc/SOMYA GUPTA.jpg",
+        "linkedin": "https://www.linkedin.com/in/somya-gupta-58080420a/"
       },
       {
         "id": 14,
         "name": "Mimansa Pathania",
         "position": "Management and Records Head",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
+        "image": "/mtc/mimansaa pathania.jpeg",
+        "linkedin": "https://www.linkedin.com/in/mimansa-pathania-3b38a2223/?original_referer=https%3A%2F%2Fupesmtc%2Ecom%2F&originalSubdomain=in"
       },
       {
         "id": 15,
         "name": "Shreshth Pandey",
         "position": "Sponsor and Public Relations Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "image": "/mtc/shresth pandey.jpg",
+        "linkedin": "https://www.linkedin.com/in/shresth-pandey-488b10229/"
       },
       {
         "id": 16,
         "name": "Hamza bin Saleem",
         "position": "Events Head",
-        "image": "https://example.com/jane-smith.jpg",
-        "linkedin": "https://www.linkedin.com/in/janesmith/"
-      },
-      
-      {
-        "id": 17,
-        "name": "Rajat Bisht",
-        "position": "Technical Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "image": "/mtc/HAMZAAA bin saleem.jpeg",
+        "linkedin": "https://www.linkedin.com/in/hamza-bin-saleem-b80917241/"
       },
       {
         "id": 18,
         "name": "Design Head",
         "position": "Ananya Singh",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "image": "/mtc/Ananyasinghimage.jpg",
+        "linkedin": "https://www.linkedin.com/in/ananya-singh-1b1b5b231/"
       },
       {
         "id": 19,
         "name": "Rk Ayushman",
         "position": "Editorial Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 20,
-        "name": "Arnav",
-        "position": "Photography Head",
-        "image": "https://example.com/david-johnson.jpg",
+        "image": "/mtc/rk ayushman.jpg",
         "linkedin": "https://www.linkedin.com/in/davidjohnson/"
       },
       {
         "id": 21,
         "name": "Insiya Rizvi",
         "position": "Management and Records Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
+        "image": "/mtc/insiya rizvi.jpeg",
+        "linkedin": "https://www.linkedin.com/in/insiya-rizvi-118702178/"
+      },
+      {
+        "id": 30,
+        "name": "Chaitanya Sashwat",
+        "position": "PR Advisory",
+        "image": "/mtc/chaitanya sashwat.jpeg",
         "linkedin": "https://www.linkedin.com/in/davidjohnson/"
       },
       {
-        "id": 22,
-        "name": "Shrey Sharma",
-        "position": "PR Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "id": 30,
+        "name": "Vivek Jindal",
+        "position": "Technical Advisory",
+        "image": "/mtc/vivek jindal.jpeg",
+        "linkedin": "https://www.linkedin.com/in/vivek-jindal-94970621a"
       },
       {
-        "id": 22,
-        "name": "Chaitanya Jain",
-        "position": "PR Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "id": 30,
+        "name": "Aryan Saini",
+        "position": "Design Advisory",
+        "image": "/mtc/aryansaini.JPG",
+        "linkedin": "https://www.linkedin.com/in/aryan-saini-24315b234/"
       },
       {
-        "id": 23,
-        "name": "Piklu De",
-        "position": "Sponsors Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 24,
-        "name": "Rohin Mehrotra",
-        "position": "Technical Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 25,
-        "name": "Vansh Raj Chauhan",
-        "position": "Technical Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 26,
-        "name": "Sonali Bhadra",
-        "position": "Design Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 27,
-        "name": "Vedanshi Samant",
-        "position": "Design Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "id": 17,
+        "name": "Rajat Bisht",
+        "position": "Technical Head",
+        "image": "/mtc/Rajat bisht.jpeg",
+        "linkedin": "https://www.linkedin.com/in/rajat-bisht-25b208237/"
       },
       {
         "id": 28,
         "name": "Piyush Kumar",
         "position": "Editorial Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "image": "/mtc/piyush kumar.jpeg",
+        "linkedin": "https://www.linkedin.com/in/bassslapper3390/"
+      },
+      {
+        "id": 22,
+        "name": "Shrey Sharma",
+        "position": "PR Associate Head",
+        "image": "/mtc/shrey sharma.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shrey-sharma-34237024b"
+      },
+      {
+        "id": 22,
+        "name": "Chetanya Jain",
+        "position": "PR Associate Head",
+        "image": "/mtc/Chaintanya Jain.jpg",
+        "linkedin": "https://www.linkedin.com/in/chetanya-jain-838016210/"
+      },
+      {
+        "id": 23,
+        "name": "Piklu De",
+        "position": "Sponsors Associate Head",
+        "image": "/mtc/Pikluuu de.jpeg",
+        "linkedin": "https://www.linkedin.com/in/piklu-de-179aa5235/"
+      },
+      {
+        "id": 24,
+        "name": "Rohin Mehrotra",
+        "position": "Technical Associate Head",
+        "image": "/mtc/rohin mehrotra.jpeg",
+        "linkedin": "https://www.linkedin.com/in/rohin-mehrotra/"
+      },
+      {
+        "id": 25,
+        "name": "Vansh Raj Chauhan",
+        "position": "Technical Associate Head",
+        "image": "/mtc/vanshhh raj chauhan.jpeg",
+        "linkedin": "https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/"
+      },
+      {
+        "id": 26,
+        "name": "Sonali Bhadra",
+        "position": "Design Associate Head",
+        "image": "/mtc/sonalibhadra.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sonali-bhadra-12086a249/"
+      },
+      {
+        "id": 27,
+        "name": "Vedanshi Samant",
+        "position": "Design Associate Head",
+        "image": "/mtc/vedanshi samant.jpeg",
+        "linkedin": "https://www.linkedin.com/in/vedanshi-samant-709879278/"
       },
       {
         "id": 29,
         "name": "Hardik Raj Kapoor",
         "position": "Photograhy Associate Head",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "image": "/mtc/hardikkk raj kapoor.jpg",
+        "linkedin": "https://www.linkedin.com/in/hardik-raj-kapoor-03a680183/"
       },
       {
-        "id": 30,
-        "name": "David Johnson",
-        "position": "Data Scientist",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 31,
-        "name": "David Johnson",
-        "position": "Data Scientist",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 32,
-        "name": "David Johnson",
-        "position": "Data Scientist",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
-      },
-      {
-        "id": 33,
-        "name": "David Johnson",
-        "position": "Data Scientist",
-        "image": "https://example.com/david-johnson.jpg",
-        "linkedin": "https://www.linkedin.com/in/davidjohnson/"
+        "id": 29,
+        "name": "Arnav",
+        "position": "Photograhy Head",
+        "image": "/mtc/arnav (2).jpg",
+        "linkedin": "https://www.linkedin.com/in/-arnav-srivastava/"
       }
     ]
   }
