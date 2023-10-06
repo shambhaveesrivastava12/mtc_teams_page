@@ -14,9 +14,9 @@ const Card = (props) => {
   return (
     <ul>
       {props.data.map((item,index) => (
-        <Fragment key={item.name}>
+        <Fragment key={item.level}>
           <li>
-            {console.log(item.id)}
+            {console.log(item.image)}
             <div className="card">
               <div className="image">
                 <img

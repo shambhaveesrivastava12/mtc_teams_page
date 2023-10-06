@@ -29,38 +29,38 @@
                         "children": [
                             {
                                 "level": "Great Grandchild 1",
-                                "name": "Vishal Gupta",
-                                "position": "Student Coordinator",
-                                "image": "/mtc/Vishal Gupta.webp",
+                                "name": "Aditya Kumar",
+                                "position": "President",
+                                "image": "/mtc/Aditya Kumar.jpeg",
                                 "linkedin": "https://www.linkedin.com/in/janesmith/",
                                 "children": [
                                     {
                                         "level": "Great Great Grandchild 1",
-                                        "name": "Aditya Kumar",
-                                        "position": "President",
-                                        "image": "/mtc/Aditya Kumar.jpeg",
-                                        "linkedin": "https://www.linkedin.com/in/janesmith/",
+                                        "name": "Tanish Garg",
+                                        "position": "Treasurer",
+                                        "image": "mtc/Tanish Garg.jpg",
+                                        "linkedin": "https://www.linkedin.com/in/tanish-garg-5114aa236/",
                                         "children": [
                                             {
                                                 "level": "Great Great Great Grandchild 1",
-                                                "name": "Sanidhya Soni",
-                                                "position": "Vice-President",
-                                                "image": "/mtc/sanidhya soni.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/janesmith/"
+                                                "name": "Somya Gupta",
+                                                "position": "Social Media Head",
+                                                "image": "/mtc/SOMYA GUPTA.jpg",
+                                                "linkedin": "https://www.linkedin.com/in/somya-gupta-58080420a/"
                                             },
                                             {
                                                 "level": "Great Great Great Grandchild 2",
-                                                "name": "Tanish Garg",
-                                                "position": "Treasurer",
-                                                "image": "mtc/Tanish Garg.jpg",
-                                                "linkedin": "https://www.linkedin.com/in/tanish-garg-5114aa236/",
+                                                "name": "Mimansa Pathania",
+                                                "position": "Management and Records Head",
+                                                "image": "/mtc/mimansaa pathania.jpeg",
+                                                "linkedin": "https://www.linkedin.com/in/mimansa-pathania-3b38a2223/?original_referer=https%3A%2F%2Fupesmtc%2Ecom%2F&originalSubdomain=in",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 2",
-                                                        "name": "Rishabh Dhangar",
-                                                        "position": "Director of Operations",
-                                                        "image": "/mtc/rishab dhangar.jpeg",
-                                                        "linkedin": "https://www.linkedin.com/in/janesmith/"
+                                                        "name": "Insiya Rizvi",
+                                                        "position": "Management and Records Associate Head",
+                                                        "image": "/mtc/insiya rizvi.jpeg",
+                                                        "linkedin": "https://www.linkedin.com/in/insiya-rizvi-118702178/"
                                                     }
                                                 ]
                                             }
@@ -68,45 +68,38 @@
                                     },
                                     {
                                         "level": "Great Great Grandchild 2",
-                                        "name": "Yash Raj Singh",
-                                        "position": "Mangerial Director",
-                                        "image": "/mtc/yashraj singh.jpeg",
+                                        "name": "Rishabh Dhangar",
+                                        "position": "Director of Operations",
+                                        "image": "/mtc/rishab dhangar.jpeg",
                                         "linkedin": "https://www.linkedin.com/in/janesmith/",
                                         "children": [
                                             {
                                                 "level": "Great Great Great Grandchild 3",
-                                                "name": "Vibhor Minocha",
-                                                "position": "Internal Operations",
-                                                "image": "/mtc/vibhor minocha.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/vibhor-minocha-513b32220/",
+                                                "name": "Shreshth Pandey",
+                                                "position": "Sponsor and Public Relations Head",
+                                                "image": "/mtc/shresth pandey.jpg",
+                                                "linkedin": "https://www.linkedin.com/in/shresth-pandey-488b10229/",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 3",
-                                                        "name": "Siddhant Srivastava",
-                                                        "position": "Joint Secretary",
-                                                        "image": "/mtc/siddhant srivastava.jpg",
-                                                        "linkedin": "https://www.linkedin.com/in/siddhantsrivastava21/",
+                                                        "name": "Chaitanya Sashwat",
+                                                        "position": "PR Advisory",
+                                                        "image": "/mtc/chaitanya sashwat.jpeg",
+                                                        "linkedin": "https://www.linkedin.com/in/davidjohnson/",
                                                         "children": [
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 1",
-                                                                "name": "Somya Gupta",
-                                                                "position": "Social Media Head",
-                                                                "image": "/mtc/SOMYA GUPTA.jpg",
-                                                                "linkedin": "https://www.linkedin.com/in/somya-gupta-58080420a/"
+                                                                "name": "Shrey Sharma",
+                                                                "position": "PR Associate Head",
+                                                                "image": "/mtc/shrey sharma.jpeg",
+                                                                "linkedin": "https://www.linkedin.com/in/shrey-sharma-34237024b"
                                                             },
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 2",
-                                                                "name": "Mimansa Pathania",
-                                                                "position": "Management and Records Head",
-                                                                "image": "/mtc/mimansaa pathania.jpeg",
-                                                                "linkedin": "https://www.linkedin.com/in/mimansa-pathania-3b38a2223/?original_referer=https%3A%2F%2Fupesmtc%2Ecom%2F&originalSubdomain=in"
-                                                            },
-                                                            {
-                                                                "level": "Great Great Great Great Great Grandchild 3",
-                                                                "name": "Shreshth Pandey",
-                                                                "position": "Sponsor and Public Relations Head",
-                                                                "image": "/mtc/shresth pandey.jpg",
-                                                                "linkedin": "https://www.linkedin.com/in/shresth-pandey-488b10229/"
+                                                                "name": "Chetanya Jain",
+                                                                "position": "PR Associate Head",
+                                                                "image": "/mtc/Chaintanya Jain.jpg",
+                                                                "linkedin": "https://www.linkedin.com/in/chetanya-jain-838016210/"
                                                             }
                                                         ]
 
@@ -126,45 +119,45 @@
                             },
                             {
                                 "level": "Great Grandchild 2",
-                                "name": "Design Head",
-                                "position": "Ananya Singh",
-                                "image": "/mtc/Ananyasinghimage.jpg",
-                                "linkedin": "https://www.linkedin.com/in/ananya-singh-1b1b5b231/",
+                                "name": "Sanidhya Soni",
+                                "position": "Vice-President",
+                                "image": "/mtc/sanidhya soni.jpeg",
+                                "linkedin": "https://www.linkedin.com/in/janesmith/",
                                 "children": [
                                     {
                                         "level": "Great Great Grandchild 3",
-                                        "name": "Rk Ayushman",
-                                        "position": "Editorial Head",
-                                        "image": "/mtc/rk ayushman.jpg",
-                                        "linkedin": "https://www.linkedin.com/in/davidjohnson/",
+                                        "name": "Yash Raj Singh",
+                                        "position": "Mangerial Director",
+                                        "image": "/mtc/yashraj singh.jpeg",
+                                        "linkedin": "https://www.linkedin.com/in/janesmith/",
                                         "children": [
                                             {
                                                 "level": "Great Great Great Grandchild 4",
-                                                "name": "Insiya Rizvi",
-                                                "position": "Management and Records Associate Head",
-                                                "image": "/mtc/insiya rizvi.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/insiya-rizvi-118702178/",
+                                                "name": "Rajat Bisht",
+                                                "position": "Technical Head",
+                                                "image": "/mtc/Rajat bisht.jpeg",
+                                                "linkedin": "https://www.linkedin.com/in/rajat-bisht-25b208237/",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 4",
-                                                        "name": "Chaitanya Sashwat",
-                                                        "position": "PR Advisory",
-                                                        "image": "/mtc/chaitanya sashwat.jpeg",
-                                                        "linkedin": "https://www.linkedin.com/in/davidjohnson/",
+                                                        "name": "Vivek Jindal",
+                                                        "position": "Technical Advisory",
+                                                        "image": "/mtc/vivek jindal.jpeg",
+                                                        "linkedin": "https://www.linkedin.com/in/vivek-jindal-94970621a",
                                                         "children": [
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 4",
-                                                                "name": "Vivek Jindal",
-                                                                "position": "Technical Advisory",
-                                                                "image": "/mtc/vivek jindal.jpeg",
-                                                                "linkedin": "https://www.linkedin.com/in/vivek-jindal-94970621a"
+                                                                "name": "Rohin Mehrotra",
+                                                                "position": "Technical Associate Head",
+                                                                "image": "/mtc/rohin mehrotra.jpeg",
+                                                                "linkedin": "https://www.linkedin.com/in/rohin-mehrotra/"
                                                             },
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 5",
-                                                                "name": "Aryan Saini",
-                                                                "position": "Design Advisory",
-                                                                "image": "/mtc/aryansaini.JPG",
-                                                                "linkedin": "https://www.linkedin.com/in/aryan-saini-24315b234/"
+                                                                "name": "Vansh Raj Chauhan",
+                                                                "position": "Technical Associate Head",
+                                                                "image": "/mtc/vanshhh raj chauhan.jpeg",
+                                                                "linkedin": "https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/"
                                                             }
                                                         ]
                                                     }
@@ -174,39 +167,39 @@
                                     },
                                     {
                                         "level": "Great Great Grandchild 4",
-                                        "name": "Rajat Bisht",
-                                        "position": "Technical Head",
-                                        "image": "/mtc/Rajat bisht.jpeg",
-                                        "linkedin": "https://www.linkedin.com/in/rajat-bisht-25b208237/",
+                                        "name": "Vibhor Minocha",
+                                        "position": "Internal Operations",
+                                        "image": "/mtc/vibhor minocha.jpeg",
+                                        "linkedin": "https://www.linkedin.com/in/vibhor-minocha-513b32220/",
                                         "children": [
                                             {
                                                 "level": "Great Great Great Grandchild 5",
-                                                "name": "Piyush Kumar",
-                                                "position": "Editorial Associate Head",
-                                                "image": "/mtc/piyush kumar.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/bassslapper3390/",
+                                                "name": "Ananya Singh",
+                                                "position": "Design Head",
+                                                "image": "/mtc/Ananyasinghimage.jpg",
+                                                "linkedin": "https://www.linkedin.com/in/ananya-singh-1b1b5b231/",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 5",
-                                                        "name": "Shrey Sharma",
-                                                        "position": "PR Associate Head",
-                                                        "image": "/mtc/shrey sharma.jpeg",
-                                                        "linkedin": "https://www.linkedin.com/in/shrey-sharma-34237024b",
+                                                        "name": "Aryan Saini",
+                                                        "position": "Design Advisory",
+                                                        "image": "/mtc/aryansaini.JPG",
+                                                        "linkedin": "https://www.linkedin.com/in/aryan-saini-24315b234/",
                                                         "children": [
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 6",
-                                                                "name": "Chetanya Jain",
-                                                                "position": "PR Associate Head",
-                                                                "image": "/mtc/Chaintanya Jain.jpg",
-                                                                "linkedin": "https://www.linkedin.com/in/chetanya-jain-838016210/"
+                                                                "name": "Sonali Bhadra",
+                                                                "position": "Design Associate Head",
+                                                                "image": "/mtc/sonalibhadra.jpeg",
+                                                                "linkedin": "https://www.linkedin.com/in/sonali-bhadra-12086a249/"
 
                                                             },
                                                             {
                                                                 "level": "Great Great Great Great Great Grandchild 7",
-                                                                "name": "Piklu De",
-                                                                "position": "Sponsors Associate Head",
-                                                                "image": "/mtc/Pikluuu de.jpeg",
-                                                                "linkedin": "https://www.linkedin.com/in/piklu-de-179aa5235/"
+                                                                "name": "Vedanshi Samant",
+                                                                "position": "Design Associate Head",
+                                                                "image": "/mtc/vedanshi samant.jpeg",
+                                                                "linkedin": "https://www.linkedin.com/in/vedanshi-samant-709879278/"
                                                             }
                                                         ]
                                                     }
@@ -216,33 +209,33 @@
                                     },
                                     {
                                         "level": "Great Great Grandchild 5",
-                                        "name": "Rohin Mehrotra",
-                                        "position": "Technical Associate Head",
-                                        "image": "/mtc/rohin mehrotra.jpeg",
-                                        "linkedin": "https://www.linkedin.com/in/rohin-mehrotra/",
+                                        "name": "Siddhant Srivastava",
+                                        "position": "Joint Secretary",
+                                        "image": "/mtc/siddhant srivastava.jpg",
+                                        "linkedin": "https://www.linkedin.com/in/siddhantsrivastava21/",
                                         "children": [
                                             {
                                                 "level": "Great Great Great Grandchild 6",
-                                                "name": "Vansh Raj Chauhan",
-                                                "position": "Technical Associate Head",
-                                                "image": "/mtc/vanshhh raj chauhan.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/",
+                                                "name": "Rk Ayushman",
+                                                "position": "Editorial Head",
+                                                "image": "/mtc/rk ayushman.jpg",
+                                                "linkedin": "https://www.linkedin.com/in/davidjohnson/",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 6",
-                                                        "name": "Sonali Bhadra",
-                                                        "position": "Design Associate Head",
-                                                        "image": "/mtc/sonalibhadra.jpeg",
-                                                        "linkedin": "https://www.linkedin.com/in/sonali-bhadra-12086a249/"
+                                                        "name": "Piyush Kumar",
+                                                        "position": "Editorial Associate Head",
+                                                        "image": "/mtc/piyush kumar.jpeg",
+                                                        "linkedin": "https://www.linkedin.com/in/bassslapper3390/"
                                                     }
                                                 ]
                                             },
                                             {
                                                 "level": "Great Great Great Grandchild 7",
-                                                "name": "Vedanshi Samant",
-                                                "position": "Design Associate Head",
-                                                "image": "/mtc/vedanshi samant.jpeg",
-                                                "linkedin": "https://www.linkedin.com/in/vedanshi-samant-709879278/",
+                                                "name": "Arnav",
+                                                "position": "Photograhy Head",
+                                                "image": "/mtc/arnav (2).jpg",
+                                                "linkedin": "https://www.linkedin.com/in/-arnav-srivastava/",
                                                 "children": [
                                                     {
                                                         "level": "Great Great Great Great Grandchild 7",
@@ -261,10 +254,10 @@
                     },
                     {
                         "level": "Grandchild 3",
-                        "name": "Arnav",
-                        "position": "Photograhy Head",
-                        "image": "/mtc/arnav (2).jpg",
-                        "linkedin": "https://www.linkedin.com/in/-arnav-srivastava/"
+                        "name": "Vishal Gupta",
+                        "position": "Student Coordinator",
+                        "image": "/mtc/Vishal Gupta.webp",
+                        "linkedin": "https://www.linkedin.com/in/janesmith/"
                     }
                 ]
             }
